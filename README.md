@@ -1,4 +1,4 @@
- #Automation Project for Table-Sorting and Searching
+ #Selenium automation script in Python to validate search functionality on the Selenium Playground website.
  1. Install Python and Pip in your local environment.
  2. Install dependencies using the command: pip install selenium pytest webdriver-manager
  3. Create a new project in PyCharm.
