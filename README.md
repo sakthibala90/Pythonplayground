@@ -1,4 +1,4 @@
- #Automation Project for Table-Sorting and Search
+ #Automation Project for Table-Sorting and Searching
  1. Install Python and Pip in your local environment.
  2. Install dependencies using the command: pip install selenium pytest webdriver-manager
  3. Create a new project in PyCharm.
